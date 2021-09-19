@@ -1,0 +1,33 @@
+
+.container {
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+    height:100vh;
+    
+}
+.header {
+    margin-left: 0px;
+    text-align: center;
+    
+}
+hr {
+    width:140px;
+}
+#color {
+    margin-top: 150px;
+    margin-left: 30px;
+    text-align: center;
+    letter-spacing: 3px;
+    height:1.5rem;
+    width: 15rem;
+    border-radius:20px;
+    border:3px solid rgb(226,226, 226);
+    padding: 7px 7px;
+    font-size: .75rem;
+    outline:none;
+}
+
+h1 {
+    font-family: 'Nova Flat', cursive;
+}
